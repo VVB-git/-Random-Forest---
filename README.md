@@ -25,7 +25,7 @@
 
 3. Пример дерева решений из случайного леса
     
- ![](DecisionTree.jpg)
+ ![](DecisionTree.png)
 
 4. Код веб-приложения (streamlit_app.py)
 
